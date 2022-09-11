@@ -24,6 +24,6 @@ This analysis had several steps and I've spent too much time to conduct it. Belo
 <img width="262" alt="Screen Shot 2022-09-11 at 11 08 16 AM" src="https://user-images.githubusercontent.com/111788394/189535958-08c23eb2-4a0a-43f4-ab45-e1545d5475cd.png">
 
 
-It was very hard to refactoring the code, because there were duplicates. I had to use some online resources to undertand and refactore the code.
+It was very hard refactoring the code, because there were duplicates. I had to use some online resources to undertand and refactore the code.
 
 
